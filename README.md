@@ -1,9 +1,9 @@
 # Try PolarToolkit online
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/mdtanker/polartoolkit-binder/main?)
+This repo contains the `environment.yml` file necessary to build the Binder for PolarToolkit.
 
-A Binder-compatible repo with an `environment.yml` file.
+![Binder](https://mybinder.org/v2/gh/mdtanker/polartoolkit-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmdtanker%252Fpolartoolkit%26urlpath%3Dtree%252Fpolartoolkit%252Fdocs%252Fgallery%26branch%3Dmain)
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/mdtanker/polartoolkit-binder/main?
+https://mybinder.org/v2/gh/mdtanker/polartoolkit-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmdtanker%252Fpolartoolkit%26urlpath%3Dtree%252Fpolartoolkit%252Fdocs%252Fgallery%26branch%3Dmain
