@@ -1,14 +1,13 @@
-name: example-environment
+name: polartoolkit-environment
 channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
+  # - polartoolkit=0.3.3
+  # interactive
+  - geoviews
+  - cartopy
+  - ipyleaflet
+  - ipython
+  # viz
+  - seaborn
