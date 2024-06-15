@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.11
   - nbgitpuller
-  - polartoolkit=0.3.3
+  - polartoolkit=0.4
   # interactive
   - geoviews=1.12.0
   - cartopy=0.23.0
