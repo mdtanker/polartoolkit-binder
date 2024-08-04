@@ -14,6 +14,6 @@ dependencies:
   # viz
   - seaborn=0.13
   - pip
-  pip:
+  - pip:
     - polartoolkit=0.5
   
