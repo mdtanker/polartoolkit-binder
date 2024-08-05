@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  # - polartoolkit
+  - nbgitpuller
   - pygmt=0.12
   - geopandas=0.14
   # - cartopy=0.23
