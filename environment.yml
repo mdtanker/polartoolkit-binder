@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.11
   - nbgitpuller
-  # - polartoolkit
+  - polartoolkit==0.5.1
   # - pygmt=0.12
   # - geopandas=0.14
   # - cartopy=0.23
@@ -14,7 +14,7 @@ dependencies:
   # - ipython=8.25
   # # viz
   # - seaborn=0.13
-  - pip
-  - pip:
-    - polartoolkit==0.5
+  # - pip
+  # - pip:
+  #   - polartoolkit==0.5
   
