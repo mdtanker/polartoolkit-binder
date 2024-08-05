@@ -8,11 +8,11 @@ dependencies:
   - geopandas=0.14
   # - cartopy=0.23
   # interactive
-  - geoviews
-  - ipyleaflet=0.19
-  - ipython
-  # viz
-  - seaborn
+  # - geoviews
+  # - ipyleaflet=0.19
+  # - ipython
+  # # viz
+  # - seaborn
   - pip
   - pip:
     - polartoolkit==0.5.1
