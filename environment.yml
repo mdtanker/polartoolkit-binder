@@ -4,16 +4,8 @@ channels:
 dependencies:
   - python=3.11
   - nbgitpuller
-  - pygmt=0.14
-  - geopandas=0.14
-  # - cartopy=0.23
-  # interactive
-  # - geoviews
-  # - ipyleaflet=0.19
-  # - ipython
-  # # viz
-  # - seaborn
-  - pip
-  - pip:
-    - polartoolkit==0.8
-  
+  - polartoolkit=1
+  # - pip
+  # - pip:
+  #   - polartoolkit==1
+
